@@ -1,5 +1,5 @@
 # Welcome to my profile.
-- Currently interested in plants and mycology, PC building, and making aesthetics for my desktop environments.
+- Currently interested in botany and mycology.
 - I’m currently learning statistics and psychology.
 - I aspire to be in the cybersecurity industry as a pentester or SysAdmin.
 - The culture of hacking is extremely fascinating to me, and I love more than anything to engage and support it.
