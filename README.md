@@ -9,7 +9,7 @@
 ### Current projects:
 - Building an Obsidian Vault for all of my ethical hacking and coding projects.
 - Learning C + taking intensive notes on physical books I own.
-- Getting an entry level position as a junior IT support staff / sysadmin.
+- Getting an entry level position as a junior IT support staff / sysadmin for this summer.
 
 ### Profile stats:
 [![Keiths's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithfernandez0&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
