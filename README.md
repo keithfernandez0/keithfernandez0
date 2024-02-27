@@ -1,5 +1,5 @@
 # Welcome to my profile.
-[![Keiths's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithfernandez0&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Keiths's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithfernandez0&count_private=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 - Currently interested in artificial intelligence and cybersecurity research 
 - Enrolled at Kean University, for a Bachelor's in Computer Science and Cybersecurity, class of 2026.
 
